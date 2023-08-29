@@ -1,0 +1,14 @@
+.active {
+    background: black;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+}
+*{
+    padding-top: 2px;
+}
+
+nav {
+    border-bottom: 1px solid #ccc; 
+    padding: 20px;
+  }

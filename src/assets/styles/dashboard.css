@@ -1,0 +1,51 @@
+.dashboard-container {
+  padding: 20px;
+}
+
+.dashboard-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.dashboard-content {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  width: 30%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.user-detail {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.avatar-container {
+  width: 100px; 
+}
+
+.profile-info {
+  flex: 1; 
+}
+
